@@ -1,0 +1,11 @@
+---
+application:
+  name: "jihji"
+  project: "zx"
+  organization: "QoveryCommunity"
+routers:
+- name: "main-jihji"
+  routes:
+  - application_name: "jihji"
+    paths:
+    - "/*"
